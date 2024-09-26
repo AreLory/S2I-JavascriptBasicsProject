@@ -115,7 +115,7 @@ p {
     border: 2px solid #af1010;
     border-radius: 5%;
     padding: 20px;
-    text-align:center;
+    text-align:left;
     transition: all 0.4s;
 }
 
