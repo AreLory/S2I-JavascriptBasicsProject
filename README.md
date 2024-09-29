@@ -1,6 +1,6 @@
 # 🏷️ Counter 
-## [![Netlify Status](https://api.netlify.com/api/v1/badges/31146399-9f3c-4419-9228-af8a322b937f/deploy-status)](https://app.netlify.com/sites/easy-counting-arelory/deploys)
-Link: (https://easy-counting-arelory.netlify.app/)
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/31146399-9f3c-4419-9228-af8a322b937f/deploy-status)](https://app.netlify.com/sites/easy-counting-arelory/deploys)
+## Link: (https://easy-counting-arelory.netlify.app/)
 ##  📃 Description
 It's a counter very easy to use. It has two big buttons, the first has a + and when you click it increase the number over the display, the second whan has a - and decrease the number value</p>
 
